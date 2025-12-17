@@ -56,7 +56,7 @@ We are an open community and welcome contributions from Data Engineers, Analytic
 
 - **🐛 Found a bug?** Open an issue in our [main repository](https://github.com/Authentic-Intelligence-Labs/headless-data-governance/issues).
 - **💡 Have an idea?** Submit a Pull Request to expand the OGS schema.
-- **💬 Discuss:** Connect with us to shape the future of Headless BI.
+- **💬 Discuss:** Connect with us to shape the future of Headless BI [Discussions](https://github.com/Authentic-Intelligence-Labs/headless-data-governance/discussions).
 
 ---
 
