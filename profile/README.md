@@ -1,60 +1,61 @@
 # Metric Provenance 🇪🇺
 
-### The Reference Implementation for the Open Data Governance Standard (ODGS)
+### The Home of the Open Data Governance Standard (ODGS)
 
-**Metric Provenance** maintains the open protocols required to secure **High-Risk AI** under the EU AI Act (Article 10). We provide the cryptographic "Binding Layer" that ensures AI agents rely on verified, deterministic definitions—not probabilistic hallucinations.
+**Metric Provenance** is the steward of **ODGS**—the open protocol designed to act as a "Sovereign Brake" for Automated Decision Making (ADM).
+
+We provide the architectural standard to decouple **The Law** (Policy) from **The Machine** (Execution), ensuring that computational models—from Legacy Algorithms to Modern AI—adhere to strict liability definitions.
 
 ---
 
-## 🏛️ The Mission: Sovereign AI Compliance
+## 🏛️ The Mission: Ending "The Blindness of Code"
 
-The **EU AI Act (Article 10)** mandates that data used in High-Risk AI systems must be *"relevant, representative, and error-free."*
+Whether it is a rigid `If/Else` script or a probabilistic LLM, modern compute has a fatal flaw: **It executes logic, but it does not understand Law.**
 
-Current data stacks (Data Lakes/Vector DBs) manage **Data Lineage** (Origin) but fail to enforce **Semantic Integrity** (Meaning). This creates a "Liability Gap" where AI agents can execute decisions based on obsolete or undefined business logic.
-
-**Metric Provenance closes this gap.**
-We treat "Governance" not as documentation, but as a **Cryptographic Dependency**.
+* **The Problem:** When data definitions drift (e.g., statutory income limits change), the code keeps running the old logic. This causes "Silent Drift" and administrative failure (e.g., *Toeslagenaffaire*).
+* **The Solution:** ODGS introduces a **Context Layer**. It cryptographically enforces the legal definition of data *before* the algorithm is allowed to execute.
 
 ---
 
 ## 📂 The Standard: ODGS
 
-Our core contribution is the **Open Data Governance Standard (ODGS)**—a vendor-neutral protocol for **Semantic Hashing**.
+Our core contribution is the **Open Data Governance Standard (ODGS)**—a vendor-neutral, headless protocol for **Semantic Integrity**.
 
-### 📦 [odgs-core](https://github.com/MetricProvenance/odgs-core)
-*The Apache 2.0 Reference Implementation for Article 10 Data Binding.*
+### 📦 [odgs-protocol](https://github.com/MetricProvenance/odgs-protocol)
+*The Reference Implementation for "Git-as-Backend" Liability Logging.*
 
 **Technical Capabilities:**
-- **Semantic Hashing:** Generates a SHA-256 hash of the business definition (logic + rules).
-- **Runtime Enforcement:** Forces AI Agents to "cite" the valid hash before inference.
-- **Audit Trails:** Provides a deterministic log of *what* the AI thought a metric meant at the moment of execution.
+-   **Universal Interceptor:** Works with Python, Java, COBOL, and LLM Agents.
+-   **Sovereign Sidecar:** Writes forensic audit logs (EU AI Act Art. 12) directly to *your* private Git. **No data leaves your perimeter.**
+-   **Hard Stop Mechanism:** Physically prevents inference if the data definition does not match the active Law.
 
-[**View the Specification →**](https://github.com/MetricProvenance/odgs-core)
+[**View the Specification →**](https://github.com/MetricProvenance/odgs-protocol)
 
 ---
 
 ## 🇪🇺 Regulatory Alignment
 
-This project is developed in alignment with the upcoming technical mandates for High-Risk AI.
+This project is developed in alignment with the **Dutch Standardization Institute (NEN)** and **ISO/IEC**.
 
-* **Standardization:** Contributing member to **NEN / ISO JTC 25** (Data Quality & AI).
-* **License:** All Core Protocols are open-source (**Apache 2.0**) to ensure European Strategic Autonomy and prevent vendor lock-in.
+* **EU AI Act:** Article 10 (Data Governance) & Article 12 (Record Keeping).
+* **Administrative Law:** Supports the "Careful Preparation Principle" (Awb 3:2).
+* **Digital Sovereignty:** Ensures Dutch government data logic remains portable and vendor-independent.
 
 ---
 
-## 🤝 For Developers & Partners
+## 🤝 Collaboration
 
-We are selecting strategic partners to pilot the ODGS implementation ahead of the 2026 enforcement deadline.
+We are currently in **Closed Technical Review** with select Government and Financial partners.
 
-- **🐛 Issues:** Report technical bugs in the [Core Repo](https://github.com/MetricProvenance/odgs-core/issues).
-- **🛡️ Commercial Support:** For Enterprise Indemnification and Liability Shields, visit our [Commercial Portal](https://metricprovenance.com).
+-   **Standardization:** Contributing member to **NEN / ISO JTC 25**.
+-   **Contact:** For inquiries regarding the Standardization Committee, please open an Issue in the [Core Repo](https://github.com/MetricProvenance/odgs-protocol/issues).
 
 ---
 
 <div align="center">
 
-© 2026 Metric Provenance (Trade Name of Quirkyswirl B.V.)
+© 2026 Metric Provenance 
 <br>
-Licensed under Apache 2.0 • <a href="https://metricprovenance.com/">metricprovenance.com</a>
+Licensed under Apache 2.0 • <i>Standardizing Algorithmic Liability</i>
 
 </div>
