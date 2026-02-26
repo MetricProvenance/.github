@@ -1,4 +1,4 @@
-# Metric Provenance 🇪🇺
+# Metric Provenance 
 
 ### The Home of the Open Data Governance Standard (ODGS)
 
@@ -35,7 +35,7 @@ Our core contribution is the **Open Data Governance Standard (ODGS)**—a vendor
 
 ## 🇪🇺 Regulatory Alignment
 
-This project is developed in alignment with the **Dutch Standardization Institute (NEN)** and **ISO/IEC**.
+This project is developed in alignment with the **Dutch Standardization Institute (NEN)** and the European **CEN-CENELEC** framework. It is specifically architected to provide the technical enforcement layer for European harmonized standards.
 
 * **EU AI Act:** Article 10 (Data Governance) & Article 12 (Record Keeping).
 * **Administrative Law:** Supports the "Careful Preparation Principle" (Awb 3:2).
@@ -47,7 +47,7 @@ This project is developed in alignment with the **Dutch Standardization Institut
 
 We are currently in **Closed Technical Review** with select Government and Financial partners.
 
--   **Standardization:** Contributing member to **NEN / ISO JTC 25**.
+-   **Standardization:** Candidate architecture aligned with **NEN** and **CEN-CENELEC JTC 25 (Data Management & Cloud)** to support the enforcement of **JTC 21 (AI)** mandates.
 -   **Contact:** For inquiries regarding the Standardization Committee, please open an Issue in the [Core Repo](https://github.com/MetricProvenance/odgs-protocol/issues).
 
 ---
