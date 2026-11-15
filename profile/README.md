@@ -32,7 +32,7 @@ Metric Provenance builds deterministic compliance enforcement and cryptographic 
 ## Standards & Open-Source Ecosystem
 
 - **Eclipse Foundation (`EMO #1466`):** Proposed open-source *Eclipse ODGS Dataspace Bridge* in public community review ([Proposal](https://projects.eclipse.org/proposals/eclipse-odgs-dataspace-bridge-runtime-compliance-enforcement-provenance)).
-- **European Standardization:** Candidate specification *"Data management — Requirements for automated compliance enforcement and verifiable evidence in data transactions"* (`CEN/CLC JTC 25 N 380 Rev. 2`) under evaluation via **NEN (`NC 381 525`)** and **CEN/CLC JTC 25 / WG 2**.
+- **European Standardization:** Candidate specification *"Data management — Requirements for automated compliance enforcement and verifiable evidence in data transactions"* (`CEN/CLC JTC 25`) under evaluation via **NEN (`NC 381 525`)** and **CEN/CLC JTC 25 / WG 2**.
 - **Research & Citations:** [Zenodo DOI `10.5281/zenodo.18564270`](https://doi.org/10.5281/zenodo.18564270) · [SSRN `#6205478`](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6205478)
 
 ---
